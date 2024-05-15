@@ -4,7 +4,7 @@
 
 ## Working Priciple
 
-* This device measures distances to objects using two Time-of-Flight (TOF) sensors, which are rotated by two stepper motors to cover the entire 3D environment
+* This device measures distances to objects using two Time-of-Flight (TOF) sensors, which are rotated by two stepper motors to cover the entire 3D environment.
 * By utilizing the distance data from these sensors, a 3D point cloud is generated. This system is ideal for short-range 3D mapping.
 
 ## Hardware Specifications
