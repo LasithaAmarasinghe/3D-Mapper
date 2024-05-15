@@ -7,6 +7,14 @@
 * This device measures distances to objects using two Time-of-Flight (TOF) sensors, which are rotated by two stepper motors to cover the entire 3D environment.
 * By utilizing the distance data from these sensors, a 3D point cloud is generated. This system is ideal for short-range 3D mapping.
 
+## Why "3D-Mapper"?
+
+* Precision in Short-Range Mapping
+* Comprehensive Coverage
+* Cost-Effective
+* Scalability and Customization
+* Versatility Across Industries
+
 ## Hardware Specifications
 
 * Atmega2560
