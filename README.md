@@ -34,3 +34,4 @@
 
 ## Team
 
+![team](https://github.com/LasithaAmarasinghe/3D-Mapper/assets/106037441/35031685-0640-4157-9b0c-df699e6310eb)
