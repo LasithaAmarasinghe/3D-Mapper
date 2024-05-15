@@ -22,16 +22,15 @@
 
 ## PCB Design
 
-![pcb](https://github.com/LasithaAmarasinghe/Smarty-Plug/assets/106037441/c4067350-08f6-48c0-a987-197e09814b93)
+![PCB](https://github.com/LasithaAmarasinghe/3D-Mapper/assets/106037441/d7e6ce52-1c89-4154-8b88-37388692e56b)
 
 ## PCB 
 
-![PCB](https://github.com/LasithaAmarasinghe/Smarty-Plug/assets/106037441/6e54b8a1-ab34-4b89-92c8-6ff2f9dd6a27)
+![PCB](https://github.com/LasithaAmarasinghe/3D-Mapper/assets/106037441/e6a24d2e-6db5-4a9c-af80-d481695acf72)
 
 ## Solidworks Design
 
-![solidworks](https://github.com/LasithaAmarasinghe/Smarty-Plug/assets/106037441/df30b340-38dd-4b4b-93a3-ee9717be19d6)
+![solidworks](https://github.com/LasithaAmarasinghe/3D-Mapper/assets/106037441/f35719a4-a017-4c51-9a2d-e31d81bae907)
 
 ## Team
 
-![image](https://github.com/LasithaAmarasinghe/Smarty-Plug/assets/106037441/1e53f2e7-6078-4a04-b4ee-c26480316bee)
