@@ -53,6 +53,7 @@
 
 ![solidworks](https://github.com/LasithaAmarasinghe/3D-Mapper/assets/106037441/f35719a4-a017-4c51-9a2d-e31d81bae907)
 ![Interior Design](https://github.com/LasithaAmarasinghe/3D-Mapper/assets/106037441/f78155a7-3207-4334-bf99-9af56c6035ed)
+![Side view](https://github.com/LasithaAmarasinghe/3D-Mapper/assets/106037441/9bda0ceb-6ee5-47a1-a3ce-7c367c91f589)
 
 ## Team
 
