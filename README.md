@@ -39,8 +39,7 @@
 * Arduino IDE
 * Solid Works
 * Altium
-* Python IDE
-* Matplotlib
+* Python 
 
 ## PCB Design
 
