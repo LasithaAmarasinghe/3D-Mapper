@@ -5,7 +5,10 @@
 ## Working Principle 
 
 * This device measures distances to objects using two Time-of-Flight (TOF) sensors, which are rotated by two stepper motors to cover the entire 3D environment.
-* By utilizing the distance data from these sensors, a 3D point cloud is generated. This system is ideal for short-range 3D mapping.
+* The distance values are saved in (r, theta, alpha) coordinates and then converted to (x, y, z) coordinates.
+* Using the PyVista library in Python, a 3D point cloud is generated from these Cartesian coordinates. 
+* A tetrahedral mesh is created by performing 3D Delaunay triangulation on the point cloud.
+* Then the outer surface of this tetrahedral mesh is extracted to form a surface mesh.
 
 ## Why "3D-Mapper"?
 
