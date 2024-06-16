@@ -45,6 +45,9 @@
 ![Solidworks](https://img.shields.io/badge/Solid_Works_-red)
 ![Altium](https://img.shields.io/badge/Altium_Designer_-%23A5915F?logo=altiumdesigner&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=FFFF00)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white)
+![pyvista](https://img.shields.io/badge/PyVista_-green?logoColor=white)
+
 
 ## PCB Design
 
