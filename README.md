@@ -47,7 +47,9 @@
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=FFFF00)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white)
 ![pyvista](https://img.shields.io/badge/PyVista_-green?logoColor=white)
-
+![Matplotlib](https://img.shields.io/badge/matplotlib_-purple)
+![json](https://img.shields.io/badge/json_-black)
+![serial](https://img.shields.io/badge/serial_-blue)
 
 ## PCB Design
 
