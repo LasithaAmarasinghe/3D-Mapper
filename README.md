@@ -7,7 +7,7 @@
 * This device measures distances to objects using two Time-of-Flight (TOF) sensors, which are rotated by two stepper motors to cover the entire 3D environment.
 * The distance values are saved in (r, theta, alpha) coordinates and then converted to (x, y, z) coordinates.
 * Using the [PyVista](https://github.com/pyvista) library in Python, a 3D point cloud is generated from these cartesian coordinates. 
-* A tetrahedral mesh is created by performing 3D Delaunay triangulation on the point cloud.
+* A tetrahedral mesh is created by performing [3D Delaunay triangulation](https://github.com/LasithaAmarasinghe/3D-Mapper/blob/main/3D%20Delaunay%20Triangulation.pdf) on the point cloud.
 * Then the outer surface of this tetrahedral mesh is extracted to form a surface mesh.
 
 ## Why "3D-Mapper"?
@@ -31,8 +31,8 @@
 * [I2C Multiplexer](https://github.com/LasithaAmarasinghe/3D-Mapper/blob/main/data%20sheets/tca9548a%20I2C%20multiplexer.pdf)
 * [Nema 17 Stepper Motors](https://github.com/LasithaAmarasinghe/3D-Mapper/blob/main/data%20sheets/NEMA17%20Stepper%20Motor.PDF)
 * [Micro Step Motor Drivers](https://github.com/LasithaAmarasinghe/3D-Mapper/blob/main/data%20sheets/TB6600-Micro%20Step%20Stepper-Motor-Driver.pdf)
+* [TOF Sensors](https://github.com/LasithaAmarasinghe/3D-Mapper/blob/main/data%20sheets/TOF.png)
 * 12V to 5V Buck Converter
-* TOF Sensors
 
 ## Software Specifications
 
