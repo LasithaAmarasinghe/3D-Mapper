@@ -28,10 +28,10 @@
 
 * [Atmega2560](https://github.com/LasithaAmarasinghe/3D-Mapper/blob/main/data%20sheets/ATMEGA2560.PDF)
 * [CH340C USB to Serial Chip](https://github.com/LasithaAmarasinghe/3D-Mapper/blob/main/data%20sheets/CH340C%20USB%20to%20serial%20chip.PDF)
-* 12V to 5V Buck Converter
-* I2C Multiplexer
+* [I2C Multiplexer](https://github.com/LasithaAmarasinghe/3D-Mapper/blob/main/data%20sheets/tca9548a%20I2C%20multiplexer.pdf)
 * [Nema 17 Stepper Motors](https://github.com/LasithaAmarasinghe/3D-Mapper/blob/main/data%20sheets/NEMA17%20Stepper%20Motor.PDF)
-* Micro Step Motor Drivers
+* [Micro Step Motor Drivers](https://github.com/LasithaAmarasinghe/3D-Mapper/blob/main/data%20sheets/TB6600-Micro%20Step%20Stepper-Motor-Driver.pdf)
+* 12V to 5V Buck Converter
 * TOF Sensors
 
 ## Software Specifications
