@@ -1,5 +1,5 @@
 # 3D-Mapper 
-* 3D-Mapper is a 3D plotting device made for short-range object detection powered by Atmega 2560.
+* 3D-Mapper is a 3D plotting device made for short-range object detection powered by [ATmega 2560](data sheets/ATMEGA2560.PDF).
 * This is developed for the semester 4 project under EN 2160: Electronic Design Realization.
 
 ## Working Principle 
