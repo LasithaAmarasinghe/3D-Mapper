@@ -1,5 +1,5 @@
 # 3D-Mapper 
-* 3D-Mapper is a 3D plotting device made for short-range object detection powered by [ATmega 2560](data sheets/ATMEGA2560.PDF).
+* 3D-Mapper is a 3D plotting device made for short-range object detection powered by [ATmega 2560](https://github.com/LasithaAmarasinghe/3D-Mapper/blob/main/data%20sheets/ATMEGA2560.PDF).
 * This is developed for the semester 4 project under EN 2160: Electronic Design Realization.
 
 ## Working Principle 
@@ -26,11 +26,11 @@
 
 ## Hardware Specifications
 
-* Atmega2560
-* CH340C USB to Serial Chip
+* [Atmega2560](https://github.com/LasithaAmarasinghe/3D-Mapper/blob/main/data%20sheets/ATMEGA2560.PDF)
+* [CH340C USB to Serial Chip](https://github.com/LasithaAmarasinghe/3D-Mapper/blob/main/data%20sheets/CH340C%20USB%20to%20serial%20chip.PDF)
 * 12V to 5V Buck Converter
 * I2C Multiplexer
-* Nema 17 Stepper Motors
+* [Nema 17 Stepper Motors](https://github.com/LasithaAmarasinghe/3D-Mapper/blob/main/data%20sheets/NEMA17%20Stepper%20Motor.PDF)
 * Micro Step Motor Drivers
 * TOF Sensors
 
