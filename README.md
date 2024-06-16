@@ -41,6 +41,11 @@
 * Altium
 * Python 
 
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white)
+![Solidworks](https://img.shields.io/badge/Solid_Works_-red)
+![Altium](https://img.shields.io/badge/Altium_Designer_-%23A5915F?logo=altiumdesigner&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=FFFF00)
+
 ## PCB Design
 
 ![PCB](https://github.com/LasithaAmarasinghe/3D-Mapper/assets/106037441/d7e6ce52-1c89-4154-8b88-37388692e56b)
