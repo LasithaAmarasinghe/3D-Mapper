@@ -68,3 +68,7 @@
 ## Team
 
 ![team](https://github.com/LasithaAmarasinghe/3D-Mapper/assets/106037441/35031685-0640-4157-9b0c-df699e6310eb)
+
+## License
+ 
+ * This project is licensed under the MIT License. See the [LICENSE](MIT-LICENSE.txt) file for details.
