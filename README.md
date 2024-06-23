@@ -2,6 +2,9 @@
 * 3D-Mapper is a 3D plotting device made for short-range object detection powered by [ATmega 2560](https://github.com/LasithaAmarasinghe/3D-Mapper/blob/main/data%20sheets/ATMEGA2560.PDF).
 * This is developed for the semester 4 project under EN 2160: Electronic Design Realization.
 
+![solidworks2](https://github.com/LasithaAmarasinghe/3D-Mapper/assets/106037441/5bb10cac-2669-4623-8809-b7fab317d9fd)
+
+
 ## Working Principle 
 
 * This device measures distances to objects using two Time-of-Flight (TOF) sensors, which are rotated by two stepper motors to cover the entire 3D environment.
