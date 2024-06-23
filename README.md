@@ -2,7 +2,7 @@
 * 3D-Mapper is a 3D plotting device made for short-range object detection powered by [ATmega 2560](https://github.com/LasithaAmarasinghe/3D-Mapper/blob/main/data%20sheets/ATMEGA2560.PDF).
 * This is developed for the semester 4 project under EN 2160: Electronic Design Realization.
 
-![solidworks2](https://github.com/LasithaAmarasinghe/3D-Mapper/assets/106037441/5bb10cac-2669-4623-8809-b7fab317d9fd)
+<img src="https://github.com/LasithaAmarasinghe/3D-Mapper/assets/106037441/5bb10cac-2669-4623-8809-b7fab317d9fd" width="600" height="600">
 
 
 ## Working Principle 
@@ -56,7 +56,8 @@
 
 ## PCB Design
 
-![PCB](https://github.com/LasithaAmarasinghe/3D-Mapper/assets/106037441/d7e6ce52-1c89-4154-8b88-37388692e56b)
+<img src="https://github.com/LasithaAmarasinghe/3D-Mapper/assets/106037441/d7e6ce52-1c89-4154-8b88-37388692e56b" width="850" height="550">
+
 
 ## PCB 
 
