@@ -71,8 +71,8 @@
 
 ## For More Information  
 
--[Design Methodology Report](Design_Methodology_Report.pdf)
--[Design Methodology Report](Design_Methodology_Report.pdf)
+- **[Design Document](Design_Document.pdf)**
+- **[Design Methodology Report](Design_Methodology_Report.pdf)**
 
 ## License
  
